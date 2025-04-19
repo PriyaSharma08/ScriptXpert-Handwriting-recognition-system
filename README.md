@@ -1,4 +1,4 @@
-![Orange Yellow and Blue Playful and Illustrative Landscape University Research Poster](https://github.com/user-attachments/assets/6c445783-5ae5-4303-9516-c7c64b7f77c0)# ✍️ ScriptXpert-Handwriting-recognition-system
+# ✍️ ScriptXpert-Handwriting-recognition-system
 
 
 This is an OpenCV-based Python project that allows users to **draw alphabets or numbers in the air** using their **index fingertip**, and our trained model will recognize the character in real-time.
